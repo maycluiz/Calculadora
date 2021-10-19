@@ -1,0 +1,51 @@
+body {
+  background: rgb(43, 42, 42);
+  font: normal 15pt Arial;
+}
+
+header {
+  color: white;
+  text-align: center;
+}
+
+section {
+  background: white;
+  border-radius: 10px;
+  padding: 15px;
+  width: 200px;
+  margin: auto;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+  text-align: center;
+}
+
+input.display {
+  width: 170px;
+  background: #999898;
+  
+}
+section input {
+  font-size: 30px;
+  margin: 5px 0 5px 0;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.ac {
+    width: 110px;
+}
+
+.op {
+  width: 60px;
+  background: rgb(238, 122, 45);
+}
+
+.equal {
+  width: 105px;
+  background: rgb(238, 122, 45);
+}
+
+footer {
+  color: white;
+  text-align: center;
+  font-style: italic;
+}
